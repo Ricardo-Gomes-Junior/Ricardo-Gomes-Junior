@@ -1,4 +1,4 @@
-### **Olá, eu sou o Ricardo Junior!** 👋
+### **Ricardo Junior** 
 
 <br/>
 
