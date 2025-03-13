@@ -13,5 +13,5 @@
 </div>
 <br/>
 
- Biomédico de formação, porém apaixonado por tecnologia desde a infância! <br/><br/>
- Atualmente, dedicando-me à formação em Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Nova Roma. 👨‍💻
+Desenvolvedor Júnior | HTML | CSS | Tailwind | JavaScript | TypeScript | React | Next.Js
+-Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Nova Roma 2024.
